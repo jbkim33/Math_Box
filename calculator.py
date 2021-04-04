@@ -8,3 +8,6 @@ def multiply(a, b):
 #곱하기
 def divide_new(a, b):
 	return a/b
+
+def say_hello():
+	print("hello")
