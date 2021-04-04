@@ -6,3 +6,5 @@ def subtract(a, b):
 def multiply(a, b):
 	return a*b
 #곱하기
+def divide(a, b):
+	return a/b
