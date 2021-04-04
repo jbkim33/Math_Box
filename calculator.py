@@ -8,6 +8,3 @@ def multiply(a, b):
 #곱하기
 def divide_free(a, b):
 	return a/b
-
-def square(a):
-	return a*a
